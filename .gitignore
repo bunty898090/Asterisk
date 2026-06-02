@@ -1,0 +1,9 @@
+.bash_history
+.bash_logout
+.bashrc
+.profile
+.cache/
+.lesshst
+.ssh/
+.gitconfig
+
